@@ -1,0 +1,1 @@
+{"lodLevels":4,"environment":null,"filenames":["0_0/meta.json","2_0/meta.json","1_0/meta.json","3_0/meta.json"],"tree":{"bound":{"min":[-5.940138,-6.486811,-3.85646],"max":[8.026773,5.143828,4.277307]},"lods":{"0":{"file":0,"offset":0,"count":145384},"1":{"file":2,"offset":0,"count":100323},"2":{"file":1,"offset":0,"count":25780},"3":{"file":3,"offset":0,"count":5206}}}}
